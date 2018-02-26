@@ -1,0 +1,11 @@
+body {
+  padding: 50px;
+}
+
+#responseTable{
+  display: none;
+}
+
+#serverResponse{
+  color: red;
+}
